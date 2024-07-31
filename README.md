@@ -17,3 +17,6 @@ You will need to register for an AWS account. Once you registered your account, 
 2. Create your [IAM role](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html) following [this instruction](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_create_for-user.html).
 3. Configure your [AWS credentials](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html) in the environment where you will run the image and video analysis using your *access key* and *secret access key* (create your access keys first following [this instruction](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html).
 
+## Module structure
+![rekognition-pipeline](rekognition-pipeline-diagram.jpg)
+
