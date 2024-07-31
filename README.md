@@ -13,9 +13,7 @@ For background information, please consult the workflow description of [Amazon R
 ## Prerequisites
 You will need to register for an AWS account. Once you registered your account, proceed as follows:
 
-Create an Amazon S3 bucket to store the video and image data for processing via your AWS account (instructions to create an Amazon S3 bucket).
-
-Create your IAM role following this instruction.
-
-Configure your AWS credentials in the environment where you will run the image and video analysis using your access key and secret access key (create your access keys first following this instruction.
+- Create an Amazon S3 bucket to store the video and image data for processing via your AWS account (instructions to create an Amazon S3 bucket).
+- Create your IAM role following this instruction.
+- Configure your AWS credentials in the environment where you will run the image and video analysis using your access key and secret access key (create your access keys first following this instruction.
 
